@@ -9,3 +9,7 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
+
+# website
+
+[Le site de test](https://mogador26.github.io/test-slidev)
